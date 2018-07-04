@@ -1,0 +1,135 @@
+body {
+
+    background: #efefef;
+
+}
+.Rasmi {
+    float: left;
+    width: 100%;
+    background: #a81822;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+	padding: 0px 46px;
+}
+.include {
+
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding: 10px 0px;
+
+}
+.Veriy {
+
+    width: 100%;
+    float: left;
+    padding-bottom: 0;
+
+}
+ul {
+
+    list-style: none;
+    padding: 16px;
+
+}
+.verified {
+
+    width: auto;
+    background: #30da17;
+    float: left;
+    color: #fff;
+    padding: 10px 20px;
+
+}
+.BO {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.Transkrip {
+   float: left;
+   
+}
+.Transkrip1 {
+
+    float: right;
+}
+.UNIVERSITI1 h2 {
+
+    color: #a81822;
+    padding: 21px 20px;
+        padding-bottom: 21px;
+    float: left;
+    font-weight: 600;
+    font-size: 22px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+.UNIVERSITI1 p {
+    padding: 0px 26px;
+    float: left;
+
+}
+.table {
+
+    text-align: left;
+    width: 100%;
+
+}
+.SEMISTTER {
+
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+	margin-bottom: 18px;
+	font-weight: 600;
+}
+.ONGS {
+
+    float: left;
+
+}
+.ONGS1 {
+
+    float: right;
+
+}
+.table th {
+
+    text-align: left;
+
+}
+.table > thead > tr > th {
+    
+    border-bottom: none;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+  
+    border-top: none;
+}
+.UNIVERSITI1 {
+
+    float: left;
+    width: 100%;
+
+}
+.UNIVERSITI1 img {
+width: 129px;
+float: left;
+padding: 28px 0px;
+
+}
+input {
+
+    border: none;
+    color: #000;
+    height: 30px;
+    padding: 6px;
+}
+.BO img {
+
+    width: 100%;
+
+}
